@@ -16,6 +16,7 @@ namespace Proekt_ArcadeBubblePopper
         private int speed;
         private Random random;
         private bool gameOver;
+        private List<Player> players;
         public Form1()
         {
             InitializeComponent();
@@ -23,6 +24,7 @@ namespace Proekt_ArcadeBubblePopper
             this.speed = 5;
             this.random = new Random();
             this.gameOver = false;
+            players = new List<Player>();
             ResetGame();
         }
 
@@ -46,6 +48,7 @@ namespace Proekt_ArcadeBubblePopper
                     {
                         gameTimer.Stop();
                         ScoreLabel.Text = " GAME OVER!!! --- PRESS ENTER TO RETRY";
+                        ShowDialogs();
                         gameOver = true;
                     }
 
@@ -88,6 +91,7 @@ namespace Proekt_ArcadeBubblePopper
                 bomb.Image = Properties.Resources.boom;
                 gameTimer.Stop();
                 ScoreLabel.Text = " GAME OVER!!! --- PRESS ENTER TO RETRY";
+                ShowDialogs();
                 gameOver = true;
             }
         }
@@ -115,6 +119,26 @@ namespace Proekt_ArcadeBubblePopper
             ScoreLabel.Text = "Score: " + score;
             gameOver = false;
             gameTimer.Start();
+        }
+        /*Ovaa funkcija gi vagja dialozite na krajot na igrata
+         * ovozmozhuva da vnesite ime vo forma , pri shto se otvora druga forma
+         * kade shto se sodrzhat site igrachi koi ja zavrshile igrata i niven rezultat
+         * listata e sortirana po goleminata na rezultatot vo nerastecki redosled
+         * 
+       */
+        private void ShowDialogs()
+        {
+            AddNameForm nameForm = new AddNameForm();
+            if (nameForm.ShowDialog() == DialogResult.OK)
+            {
+                Player p = nameForm.player;
+                p.Score = score;
+                players.Add(p);
+                nameForm.Close();
+                ShowPlayersForm showPlayers = new ShowPlayersForm(players);
+                showPlayers.ShowDialog();
+
+            }
         }
     }
 }
