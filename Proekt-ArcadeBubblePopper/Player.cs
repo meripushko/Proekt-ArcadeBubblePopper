@@ -10,9 +10,10 @@ namespace Proekt_ArcadeBubblePopper
     {
         public string Name { get; set; }
         public int Score { get; set; }
+        public int level { get; set; }
         public override string ToString()
         {
-            return String.Format("Name: {0} | Score: {1}", Name, Score);
+            return String.Format("Name: {0} | Score: {1} | Level: {2}", Name, Score, level);
         }
     }
 }

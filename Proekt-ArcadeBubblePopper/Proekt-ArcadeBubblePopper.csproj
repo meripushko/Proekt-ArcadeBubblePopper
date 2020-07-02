@@ -123,5 +123,26 @@
   <ItemGroup>
     <None Include="Resources\pngfuel.com1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Level1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-bit-heart-pixel-heart-115690148590zhw0zph5j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undertale-pixel-heart-png-8.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
