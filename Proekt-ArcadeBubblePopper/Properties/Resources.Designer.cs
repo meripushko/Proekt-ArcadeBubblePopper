@@ -63,6 +63,16 @@ namespace Proekt_ArcadeBubblePopper.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8_bit_heart_pixel_heart_115690148590zhw0zph5j {
+            get {
+                object obj = ResourceManager.GetObject("8-bit-heart-pixel-heart-115690148590zhw0zph5j", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bomb {
             get {
                 object obj = ResourceManager.GetObject("bomb", resourceCulture);
@@ -76,6 +86,56 @@ namespace Proekt_ArcadeBubblePopper.Properties {
         internal static System.Drawing.Bitmap boom {
             get {
                 object obj = ResourceManager.GetObject("boom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Level1 {
+            get {
+                object obj = ResourceManager.GetObject("Level1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap level2 {
+            get {
+                object obj = ResourceManager.GetObject("level2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap level3 {
+            get {
+                object obj = ResourceManager.GetObject("level3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap level4 {
+            get {
+                object obj = ResourceManager.GetObject("level4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap level5 {
+            get {
+                object obj = ResourceManager.GetObject("level5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,6 +186,16 @@ namespace Proekt_ArcadeBubblePopper.Properties {
         internal static System.Drawing.Bitmap redStar {
             get {
                 object obj = ResourceManager.GetObject("redStar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undertale_pixel_heart_png_8 {
+            get {
+                object obj = ResourceManager.GetObject("undertale-pixel-heart-png-8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

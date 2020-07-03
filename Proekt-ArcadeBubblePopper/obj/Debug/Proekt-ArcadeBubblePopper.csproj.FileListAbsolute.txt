@@ -1,0 +1,12 @@
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt-ArcadeBubblePopper.csprojAssemblyReference.cache
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt_ArcadeBubblePopper.AddNameForm.resources
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt_ArcadeBubblePopper.Form1.resources
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt_ArcadeBubblePopper.Properties.Resources.resources
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt_ArcadeBubblePopper.ShowPlayersForm.resources
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt-ArcadeBubblePopper.csproj.GenerateResource.cache
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt-ArcadeBubblePopper.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\bin\Debug\Proekt-ArcadeBubblePopper.exe.config
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\bin\Debug\Proekt-ArcadeBubblePopper.exe
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\bin\Debug\Proekt-ArcadeBubblePopper.pdb
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt-ArcadeBubblePopper.exe
+C:\Users\Antonio\Source\Repos\Proekt-ArcadeBubblePopperLevels\Proekt-ArcadeBubblePopper\obj\Debug\Proekt-ArcadeBubblePopper.pdb
